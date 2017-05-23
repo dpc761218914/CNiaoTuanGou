@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/广告条banner实现" />
             <option value="$PROJECT_DIR$/欢迎截面splash" />
           </set>
         </option>

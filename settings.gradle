@@ -1,1 +1,1 @@
-include ':app', ':欢迎截面splash'
+include ':app', ':欢迎截面splash', ':广告条banner实现'
