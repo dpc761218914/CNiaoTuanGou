@@ -27,9 +27,9 @@ public class SplashActivity extends AppCompatActivity {
                 if(isFrist){
                     sp.edit().putBoolean("isFrist",false).commit();
                     //如果用户第一次安装应用，进入引导页面
-                    intent.setClass(SplashActivity.this,GuildActivity.class);
+                    intent.setClass(SplashActivity.this,GuideActivity.class);
                 }else{
-                    intent.setClass(SplashActivity.this,MainActivity.class);
+                    intent.setClass(SplashActivity.this,GuideActivity.class);
                 }
                 startActivity(intent);
                 //设置页面之间的切换动画

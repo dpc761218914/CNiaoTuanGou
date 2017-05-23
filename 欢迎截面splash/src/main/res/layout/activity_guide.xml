@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.dpc.splash.GuideActivity">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </android.support.v4.view.ViewPager>
+
+
+
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="150.0dip"
+            android:layout_height="43.0dip"
+            android:layout_gravity="bottom|center"
+            android:layout_marginBottom="15.0dip"
+            android:background="@drawable/guid_start_btn_selector"
+            android:paddingLeft="20.0dip"
+            android:paddingRight="20.0dip"
+            android:textColor="@android:color/white"
+            android:visibility="visible"/>
+</FrameLayout>
