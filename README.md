@@ -15,4 +15,8 @@
   （1）重写构造方法。   
   （2）重写OnMeasure方法。   
 * 自定义广告条indicator实现（注意自定义控件的封装思路，给自定义控件设置attrs）
- 
+* Toolbar的基本使用。
+  （1）需要修改app的样式主题（NoTitleBar）。
+  （2）在layout中以控件的形式使用Toolbar。
+  （3）可以给Toolbar设置主标题、菜单等。
+  

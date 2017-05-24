@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CNiaoTuanGou.iml" filepath="$PROJECT_DIR$/CNiaoTuanGou.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbar的基本使用/toolbar的基本使用.iml" filepath="$PROJECT_DIR$/toolbar的基本使用/toolbar的基本使用.iml" />
       <module fileurl="file://$PROJECT_DIR$/广告条banner实现/广告条banner实现.iml" filepath="$PROJECT_DIR$/广告条banner实现/广告条banner实现.iml" />
       <module fileurl="file://$PROJECT_DIR$/底部tab菜单fragmenttabhost实现/底部tab菜单fragmenttabhost实现.iml" filepath="$PROJECT_DIR$/底部tab菜单fragmenttabhost实现/底部tab菜单fragmenttabhost实现.iml" />
       <module fileurl="file://$PROJECT_DIR$/欢迎截面splash/欢迎截面splash.iml" filepath="$PROJECT_DIR$/欢迎截面splash/欢迎截面splash.iml" />
