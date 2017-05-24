@@ -21,5 +21,7 @@
 * Toolbar的基本使用。    
   （1）需要修改app的样式主题（NoTitleBar）。     
   （2）在layout中以控件的形式使用Toolbar。    
-  （3）可以给Toolbar设置主标题、菜单等。    
+  （3）可以给Toolbar设置主标题、菜单等。  
+* Toolbar的基本封装。（待完善）
+
   
