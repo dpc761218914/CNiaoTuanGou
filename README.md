@@ -23,6 +23,6 @@
   （2）在layout中以控件的形式使用Toolbar。    
   （3）可以给Toolbar设置主标题、菜单等。  
 * Toolbar的基本封装。（待完善）
-* ViewPager+GridView实现商品菜单切换。
+* ViewPager+GridView实现商品菜单切换（仿美团）
 
   
