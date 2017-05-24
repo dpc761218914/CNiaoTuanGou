@@ -8,10 +8,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 public class MainActivity extends FragmentActivity {
-
     private Class[] fragments=new Class[]{MainFragment.class,AroundFragment.class,
             MineFragment.class, MoreFragment.class
     };
+    //设置底部切换图片
     private int[] imgSelectors=new int[]{
       R.drawable.ic_home_tab_index_selector,
       R.drawable.ic_home_tab_near_selector,
