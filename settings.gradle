@@ -1,1 +1,1 @@
-include ':app', ':欢迎截面splash', ':广告条banner实现', ':底部tab菜单fragmenttabhost实现', ':自定义view实现流程', ':自定义广告条indicator', ':toolbar的基本使用'
+include ':app', ':欢迎截面splash', ':广告条banner实现', ':底部tab菜单fragmenttabhost实现', ':自定义view实现流程', ':自定义广告条indicator', ':toolbar的基本使用', ':toolbar的封装使用', ':viewpager商品分类的实现'
